@@ -3,4 +3,7 @@
     <string name="texto1">Hola Mundirijillo</string>
     <string name="texto2">Hola Mundo</string>
     <string name="btn_saludar">saludar</string>
+    <string name="sumarText">+</string>
+    <string name="n2Texto">N2</string>
+    <string name="n1Texto">N1</string>
 </resources>
